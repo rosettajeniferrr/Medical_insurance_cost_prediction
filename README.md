@@ -94,4 +94,4 @@ Medical_insurance_cost_prediction/
 
 ## 👩‍💻 Author
 
-Rosetta Jennifer
+Rosetta Jenifer. C
